@@ -1,7 +1,25 @@
-.body-content {
+body {
     background-color: #ffb6c1;
+    text-align: center;
+    color: white;
+    font-family: 'Vidaloka', serif;
+    font-size: 2em;
 }
 
 .logo-img {
-    margin: 0 auto;
+    padding: 15px 0px 0px 0px;
+    text-align: center;
+
 }
+
+#card-img {
+    text-align: center;
+    padding: 20px;
+}
+
+#submit {
+    color: white;
+    text-decoration: none;
+}
+
+    
