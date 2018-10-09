@@ -7,6 +7,8 @@ $(document).ready(function() {
     function changeImage() {
         var image = document.getElementById('card-img');
         img.src = "joyeaux_card_blank.png";
+            // for loop
+            $('img').parent.replace(responses[i]);
     }
 
     $('#submit').click(changeImage);

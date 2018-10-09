@@ -1,19 +1,19 @@
-body {
+.background {
     background-color: #ffb6c1;
+}
+.content {
     text-align: center;
     color: white;
     font-family: 'Vidaloka', serif;
     font-size: 2em;
 }
 
-.logo-img {
-    padding: 15px 0px 0px 0px;
-    text-align: center;
+#logo-img {
+    padding: 20px;
 
 }
 
 #card-img {
-    text-align: center;
     padding: 20px;
 }
 
