@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    var myArray = ['../images/joyeaux_card_1.png', '../images/joyeaux_card_2.png','../images/joyeaux_card_3.png', '../images/joyeaux_card_4.png', '../images/joyeaux_card_5.png']    
+    var myArray = ['../images/joyeaux_card_1.png', '../images/joyeaux_card_2.png','../images/joyeaux_card_3.png', '../images/joyeaux_card_4.png', '../images/joyeaux_card_5.png', '../images/joyeaux_card_6.png']    
     
     function changeImage() {
         event.preventDefault();

@@ -1,25 +1,99 @@
-.background {
-    background-color: #ffb6c1;
+@media (min-width: 320px) {
+    .background {
+        background-color: #ffb6c1;
+    }
+    
+    .content {
+        text-align: center;
+        color: white;
+        font-family: 'Vidaloka', serif;
+        font-size: 1em;
+    }
+
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    #logo-img {
+        padding: 20px;
+    
+    }
+    
+    #card-img {
+        padding: 20px;
+    }
+    
+    #submit {
+        color: white;
+        text-decoration: none;
+    }     
 }
-.content {
-    text-align: center;
-    color: white;
-    font-family: 'Vidaloka', serif;
-    font-size: 2em;
+ 
+@media (min-width: 768px) {
+    .background {
+        background-color: #ffb6c1;
+    }
+    
+    .content {
+        text-align: center;
+        color: white;
+        font-family: 'Vidaloka', serif;
+        font-size: 2em;
+    }
+
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    #logo-img {
+        padding: 20px;
+    
+    }
+    
+    #card-img {
+        padding: 20px;
+    }
+    
+    #submit {
+        color: white;
+        text-decoration: none;
+    }
 }
 
-#logo-img {
-    padding: 20px;
+@media (min-width: 1224px) {
+    .background {
+        background-color: #ffb6c1;
+    }
+    
+    .content {
+        text-align: center;
+        color: white;
+        font-family: 'Vidaloka', serif;
+        font-size: 2em;
+    }
 
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    #logo-img {
+        padding: 20px;
+    
+    }
+    
+    #card-img {
+        padding: 20px;
+    }
+    
+    #submit {
+        color: white;
+        text-decoration: none;
+    }
 }
 
-#card-img {
-    padding: 20px;
-}
 
-#submit {
-    color: white;
-    text-decoration: none;
-}
 
     
